@@ -3,7 +3,6 @@ import React, { useEffect } from "react";
 import { useAppDispatch, useAppSelector } from "../../../app/hooks";
 import { fetchInitialPreviews, fetchFurtherPreviews } from '../../../store/PreviewsSlice';
 
-import './Previews.css';
 import Preview from "../../../components/Preview/Preview";
 
 const Previews = () => {

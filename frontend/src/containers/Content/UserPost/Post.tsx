@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import './Post.css';
 import { useParams } from 'react-router';
 import { Redirect } from 'react-router-dom';
 

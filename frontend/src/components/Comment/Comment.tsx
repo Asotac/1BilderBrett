@@ -1,5 +1,4 @@
 import React from 'react';
-import './Comment.css'
 import {Comment as CommentData} from '../../store/PostSlice';
 
 interface Props {

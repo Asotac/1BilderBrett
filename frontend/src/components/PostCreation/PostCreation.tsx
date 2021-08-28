@@ -3,7 +3,6 @@ import {Redirect} from 'react-router-dom';
 
 import { useAppSelector } from '../../app/hooks';
 
-import './PostCreation.css'
 import { setBulmaButtonClasses, getAuthorizationHeader } from '../../util';
 import { instance as axios } from '../../axios-content';
 

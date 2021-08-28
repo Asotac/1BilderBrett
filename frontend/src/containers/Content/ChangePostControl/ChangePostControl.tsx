@@ -1,5 +1,4 @@
 import React, { useCallback, useEffect, useState } from 'react';
-import './ChangePostControl.css';
 import { useHistory } from 'react-router-dom';
 
 import { useAppDispatch, useAppSelector } from '../../../app/hooks';

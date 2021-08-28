@@ -1,7 +1,6 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 
-import './Preview.css'
 
 interface PreviewProps {
   id: number;
